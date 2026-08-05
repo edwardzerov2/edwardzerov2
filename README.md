@@ -52,9 +52,10 @@ Currently focused on:
 
 ---
 
-## 🎮 Game Boy DMG Emulator
+## 🎮 Game Boy Color Emulator
 
-A Game Boy emulator project focused on understanding hardware behavior, memory management and system architecture.
+A Game Boy Color emulator focused on understanding hardware architecture,
+memory management and graphics systems.
 
 **Technologies**
 
